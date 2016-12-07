@@ -4,10 +4,11 @@ My first open source project, was created because I was struggling to find Begin
 
 * Listing online coding resources
 * Allow filtering based on the following criteria: language, cost & learning style
-* Off practical tips on getting started
+* Offer practical tips on how to get started
 * Crowd source knowledge from others
 * Offer guidance on how to best showcase development skills you've learnt online to get a job in tech
 * Foster an online community of learners & support
+* Link to other useful resources, such as meetups etc.
 
 <!---
 Include any project badges (e.g. CI) here at the top.
