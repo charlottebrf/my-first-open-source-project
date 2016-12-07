@@ -1,8 +1,6 @@
 # my-first-open-source-project
 
-My first open source project, created because I was struggling to find Beginner level open source PR's I could contribute to.
-
-This project is created to aggregate in one place a variety of resources to help beginners learn to code by:
+My first open source project, was created because I was struggling to find Beginner level open source PR's I could contribute to. I also wanted to create a platform to aggregate and share information for people who want to learn to code, but may not be a part of a community by:
 
 * Listing online coding resources
 * Allow filtering based on the following criteria: language, cost & learning style
