@@ -8,7 +8,16 @@ My first open source project, was created because I was struggling to find Begin
 * Crowd source knowledge from others
 * Offer guidance on how to best showcase development skills you've learnt online to get a job in tech
 * Foster an online community of learners & support
-* Link to other useful resources, such as meetups etc.
+* Link to other useful resources, such as meetups etc
+
+#Build
+
+* 1. Install Node.js. You can check this is installed [here](http://blog.teamtreehouse.com/install-node-js-npm-mac0).
+
+* 2. Fork & clone this repository. Instructions can be found [here](https://help.github.com/articles/fork-a-repo/) in case it's your first time.
+
+Then, clone your forked version of the repository to your desktop in the terminal. Instructions for doing this can be found [here](https://help.github.com/articles/cloning-a-repository/), or run the command below.
+
 
 <!---
 Include any project badges (e.g. CI) here at the top.
